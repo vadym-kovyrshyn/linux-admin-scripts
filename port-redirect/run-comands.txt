@@ -1,0 +1,3 @@
+wget https://raw.githubusercontent.com/vadym-kovyrshyn/linux-admin-scripts/refs/heads/master/port-redirect/port-redirect.sh
+chmod +x port-redirect.sh
+sudo ./port-redirect.sh
